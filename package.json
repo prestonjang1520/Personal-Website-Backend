@@ -1,0 +1,23 @@
+{
+  "name": "Personal-Website-Backend",
+  "version": "1.0.0",
+  "description": "Repo for the backend code of my personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prestonjang1520/Personal-Website-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prestonjang1520/Personal-Website-Backend/issues"
+  },
+  "homepage": "https://github.com/prestonjang1520/Personal-Website-Backend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
