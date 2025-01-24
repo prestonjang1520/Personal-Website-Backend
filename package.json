@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/prestonjang1520/Personal-Website-Backend#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemailer": "^6.9.16"
   }
 }
